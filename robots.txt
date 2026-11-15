@@ -1,3 +1,2 @@
 User-agent: *
 Allow: /
-Sitemap: https://draft-notes.github.io/sitemap-index.xml
